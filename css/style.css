@@ -110,7 +110,7 @@ code, pre {
     position: relative;
     top: 60px;
     height: 350px;
-    width: 400px;
+    width: 350px;
     padding: 40px;
     z-index: 100;
     /* justify-self: flex-end; */
@@ -352,7 +352,7 @@ code, pre {
 }
 
 /* Mobile */
-@media(max-width: 300px) {
+@media(max-width: 500px) {
     .navbar {
         height: 110px;
     }
